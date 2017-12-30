@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C4E85960-84BF-4302-81F2-AAE9511E16B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.entryspin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F97C13ED-652C-4306-BAEA-6A12B0F0D2AE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="entryspin/entryspin.cs" Line="12" Column="10" />
+      <File FileName="entryspin/SpinPage.cs" Line="64" Column="63" />
+      <File FileName="entryspin/BasePage.cs" Line="17" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="4" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="5" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.entryspin.Droid PreferredExecutionTarget="Android.192.168.69.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>
